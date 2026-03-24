@@ -1,4 +1,3 @@
-
-
-# mcp-use deployment
-.mcp-use
+node_modules/
+dist/
+.mcp-use/
